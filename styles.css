@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    background-color: #eaf2f8;
+    color: #333;
+    text-align: center;
+}
+
+header {
+    background-color: #6C63FF;
+    color: white;
+    padding: 2rem;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+main {
+    margin: 2rem;
+    text-align: center;
+}
+
+.apology {
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2rem;
+    color: #6C63FF;
+}
+
+p {
+    font-size: 1.2rem;
+    margin: 1rem;
+}
+
+img {
+    width: 20%;
+    height : 10%;
+    margin: 1.5rem 0;
+}
+
+.forgive-me {
+    padding: 1rem 2rem;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    font-size: 1.5rem;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    margin-top: 4rem;
+    padding: 1rem;
+    background-color: #6C63FF;
+    color: white;
+}
